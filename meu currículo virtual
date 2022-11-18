@@ -1,1 +1,113 @@
+<html>
 
+            <head>
+
+                        <title>Meu currículo virtual</title>
+
+            </head>
+
+ 
+
+            <body bgcolor = "#F0FFFF">
+
+<FORM METHOD="POST" ACTION="mailto:correlograziela@gmail.com">
+                     
+<img src="https://avatars.githubusercontent.com/u/117958952?v=4" width="280">
+
+                        
+
+<div p align="center">
+<div<td><a href="https://www.facebook.com/graziela.correlo" target="_blank">Facebook</td></a>
+<div<td><a href="https://api.whatsapp.com/send?phone= 5521999052466" target="_blank">WhatsApp</td></a>
+<div<td><p>Confira o meu repositório em <a href="https://github.com/Tales1703"  target="_blank">GITHUB</a>.</p>
+</div>
+
+
+<br><hr>
+
+<p><b>DADOS PESSOAIS:</b>
+
+<br><b>Nome: GRAZIELA CORRELO</b>
+
+<br><b>E-mail: correlograziela@gmail.com</b>
+
+<br><b>Estado Civil: Casada</b>
+
+<br><b>Data de nascimento: 15/01/1980</b>
+
+<br><b>Cidade: Maricá</b> 
+
+<br><b>Endereço: Rua João Pressel quadra 11 lote 18</b> 
+
+<br><b>Bairro: Jardim Atlântico</b> 
+
+<br><b>CEP: 24935480</b> 
+
+<br><b>Celular: (21)999052466</b></br> 
+                        
+<p>&nbsp;
+
+<p><b>ÁREA DE ATUAÇÃO: Venda de Imóveis</b>
+
+<br><hr>
+</div>
+
+
+<div class="secao">
+<h3>Habilidades:</h3>
+<p><b>
+			
+<p>Possuo facilidade de trabalho em equipe, tendo disciplina, responsabilidade, honestidade e muita vontade de aprender sempre.</p> 
+<p>Tenho boa fluência verbal e escrita e habilidade no atendimento aos clientes e público em geral.</p> 
+<p> Possuo experiência com gestão de pessoas e com a realização de treinamentos para profissionais da área de vendas.</p> 
+
+<h3>Objetivos: </h3>
+<p> Procuro novos desafios profissionais e uma efetivação no mercado, tendo o desenvolvimento de minhas habilidades e a geração de resultados como objetivo, viabilizando um crescimento qualitativo e quantitativo para a empresa. </p>
+
+<h3>Idiomas:</h3>
+<p>. Inglês: Intermediário</p>
+</p></b>
+			
+</div>
+
+<hr>
+ 
+<p><b>FORMAÇÃO ACADÊMICA:<br>
+<br> . Atualmente Cursando 2° período de Bacharelado em Engenharia de Software.</b></p> 
+<b> . Curso Técnico em Transações Imobiliárias concluido em 2013, com registro no Conselho regional de corretores de imóveis - <br>
+<br>- CRECI inscrição RJ-064407/0</br></p>
+
+<br><hr>
+
+<br><b><h3>Instituição onde curso a graduação de Engenharia de Software:</h3> Universidade de Vassouras - Campus Maricá</b> 
+
+<br><b>Ano de Conclusão:2025</b> 
+
+                       
+<p>&nbsp;
+
+</div>
+
+<div class="secao"><b>
+<hr><h3 ">Experiências Profissionais:</h3></hr>
+<p <label>Empresa:</label> DMS Logistics – Estágio - Atuando na área de tecnologia, estudando e aprendendo sobre melhorias de softwares,<br>
+<br>utilizando linguagens como Python - Django e HTML</br>
+<p <label>Empresa:</label> AG IMÓVEIS - Corretora de Imóveis
+</p>
+<p <label>Empresa:</label> BRASIL BROKERS - Corretora de Imóveis</p>
+<p <label>Empresa:</label> PAPELEX - Vendedora</p></b>
+                         
+</p>
+</div>
+
+<br><hr>
+
+<p align="center">Caso precise de mais informações basta enviar aqui suas perguntas e/ou comentários.<br>
+Muito Obrigada!</br>
+<TEXTAREA NAME ="message" ROWS=6 COLS=43>Deixe aqui seu comentário. </TEXTAREA></p>
+<p align="center"><INPUT TYPE="SUBMIT" VALUE="ENVIAR"></p>
+<INPUT TYPE ="HIDDEN" NAME="mail" VALUE="correlograziela@gmail.com">		
+                
+</body>
+
+</html>
